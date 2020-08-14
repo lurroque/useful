@@ -181,7 +181,7 @@ let g:material_terminal_italics = 1
 
 " set color scheme
 set background=dark
-colorscheme solarized8
+colorscheme gruvbox
 
 set mousemodel=popup
 set t_Co=256
